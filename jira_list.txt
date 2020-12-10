@@ -1,3 +1,5 @@
+/osd.jsp
+/secure/project/views/notifications/secure/ConfigurePortalPages.jspa?view=search
 /rest/gadgets/1.0/g/com.atlassian.jira.gadgets:text-gadget/gadgets/text-gadget.xml
 /rest/config/1.0/directory.json
 /rest/gadgets/1.0/g/com.atlassian.confluence.plugins.gadgets:confluence-page-gadget/gadgets/confluence-page-gadget.xml
