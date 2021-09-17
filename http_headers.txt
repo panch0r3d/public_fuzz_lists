@@ -74,6 +74,7 @@ Body-Maxlength
 Body-Truncated
 Brief
 Browser-User-Agent
+Bucket
 Cache-Control
 Cache-Info
 Case-Files
@@ -785,6 +786,7 @@ Translate
 Transport-Err
 True-Client-IP
 True-Client-Ip
+Typeform-Version
 Ua
 Ua-Color
 Ua-Cpu
@@ -945,6 +947,7 @@ X-Csrf-Token
 X-Csrftoken
 X-Cuid
 X-Custom
+X-Custom-IP-Authorization
 X-DNS-Prefetch-Control
 X-Dagd-Proxy
 X-Davical-Testcase
@@ -1149,6 +1152,7 @@ X-Tomboy-Client
 X-Tor
 X-Transaction-ID
 X-Twilio-Signature
+X-Typeform-Key
 X-UIDH
 X-Ua-Device
 X-Ucbrowser-Device-Ua
@@ -1173,6 +1177,7 @@ X-Username
 X-Varnish
 X-Verify-Credentials-Authorization
 X-Vodafone-3gpdpcontext
+X-WAP-Profile
 X-Wap-Client-Sdu-Size
 X-Wap-Clientid
 X-Wap-Gateway
